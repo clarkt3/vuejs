@@ -1,1 +1,1 @@
-// var hello = 'high';
+new Vue
